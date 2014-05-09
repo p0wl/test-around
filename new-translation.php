@@ -1,1 +1,9 @@
 trGet('maaaah translation');
+
+
+another translation with trGet("that should be found
+
+
+with multi line statements blabal baldsflg
+
+end");
