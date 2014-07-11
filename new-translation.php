@@ -16,3 +16,5 @@ trGet('Hallo');
 non existing translation:
 
 trGet('Hallo Bla!');
+
+new
