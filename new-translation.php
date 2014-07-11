@@ -1,4 +1,4 @@
-trGet('maaaah translation');
+trGet('maaaah new translation');
 
 
 test this.
